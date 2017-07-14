@@ -1,3 +1,108 @@
-baseURL = "http://harmish.in/"
-languageCode = "en-us"
+baseurl = "https://harmish.in/"
 title = "Harmish Khambhaita"
+copyright = "&copy; 2017 Harmish Khambhaita"
+theme = "academic"
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+
+# Default language to use
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  name = "Harmish Khambhaita"
+  role = "Doctoral Candidate"
+  organization = "LAAS-CNRS"
+  organization_url = "https://www.laas.fr/"
+  gravatar = false
+  avatar = "portrait.jpg"  # in `static/img/` folder
+  email = "harmish@laas.fr"
+  address = "Room H111, LAAS-CNRS, 7 Avenue du Colonel Roche, 31400, Toulouse, France"
+  phone = "+33 5 61 33 68 76"
+
+  date_format = "Mon, Jan 2, 2006"
+
+  # LaTeX math
+  math = false # You can enable it locally on a per page basis
+
+  # Code highlighting with highlight.js
+  highlight = false
+
+  # Enable native social sharing buttons?
+  sharing = true
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  custom_css = []
+  custom_js  = []
+
+  # Publication types
+  publication_types = [
+    'Uncategorized',  # 0
+    'Conference proceedings',  # 1
+    'Journal',  # 2
+    'Work in progress',  # 3
+    'Technical report',  # 4
+    'Book',  # 5
+    'Book chapter'  # 6
+  ]
+
+  # Social/Academic Networking
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:harmish@laas.fr"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//www.linkedin.com/in/harmishhk/"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/harmishhk"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "//www.researchgate.net/profile/Harmish_Khambhaita"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/harmishhk"
+
+# Navigation Links
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
+
+[[menu.main]]
+  name = "Recent Works"
+  url = "#publications_selected"
+  weight = 2
+
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 4
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+
+# Languages
+[languages.en]
+  languageCode = "en-us"
