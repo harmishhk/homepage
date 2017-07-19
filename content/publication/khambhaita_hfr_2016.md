@@ -14,6 +14,6 @@ abstract_short = ""
 
 math = false
 highlight = false
-image_preview = ""
-selected = false
+image_preview = "headers/khambhaita_hfr_2016.svg"
+selected = true
 +++
