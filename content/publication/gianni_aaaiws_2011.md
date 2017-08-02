@@ -16,4 +16,10 @@ math = false
 highlight = false
 image_preview = ""
 selected = false
+
+url_pdf = "https://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3852/4231"
+
+[[url_custom]]
+name = "HAL"
+url = "https://hal.inria.fr/hal-00759033"
 +++

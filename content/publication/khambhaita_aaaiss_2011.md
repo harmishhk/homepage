@@ -16,4 +16,10 @@ math = false
 highlight = false
 image_preview = ""
 selected = false
+
+url_pdf = "http://www.nifti.eu/publications/pdfs/aaai-sss11.pdf"
+
+[[url_custom]]
+name = "HAL"
+url = "https://hal.archives-ouvertes.fr/hal-01563110"
 +++

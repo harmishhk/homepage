@@ -16,4 +16,8 @@ math = false
 highlight = false
 image_preview = "headers/khambhaita_ro-man_2017.png"
 selected = true
+
+[[url_custom]]
+name = "HAL"
+url = "https://hal-laas.archives-ouvertes.fr/hal-01568841"
 +++

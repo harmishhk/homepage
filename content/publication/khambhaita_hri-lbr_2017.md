@@ -16,4 +16,16 @@ math = false
 highlight = false
 image_preview = "headers/khambhaita_hri-lbr_2017.png"
 selected = true
+
+[[url_custom]]
+name = "DOI"
+url = "http://dx.doi.org/10.1145/3029798.3038374"
+
+[[url_custom]]
+name = "HAL"
+url = "https://hal-laas.archives-ouvertes.fr/hal-01568840v1"
+
+[[url_custom]]
+name = "Code"
+url = "http://harmish.in/HATEB/code"
 +++

@@ -16,4 +16,12 @@ math = false
 highlight = false
 image_preview = ""
 selected = false
+
+[[url_custom]]
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-319-27702-8_40"
+
+[[url_custom]]
+name = "HAL"
+url = "https://hal-laas.archives-ouvertes.fr/hal-01568853v1"
 +++

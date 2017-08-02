@@ -16,4 +16,14 @@ math = false
 highlight = false
 image_preview = "headers/khambhaita_hfr_2016.svg"
 selected = true
+
+url_pdf = "http://walk-man.eu/results/workshops/9th-international-workshop-on-human-friendly-robotics-hfr-2016/59-book-of-abstracts/file"
+
+[[url_custom]]
+name = "HAL"
+url = "https://hal-laas.archives-ouvertes.fr/hal-01568838v1"
+
+[[url_custom]]
+name = "Code"
+url = "http://harmish.in/HBC/code"
 +++
