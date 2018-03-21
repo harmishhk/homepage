@@ -1,6 +1,6 @@
 baseurl = "https://harmish.in/"
 title = "Harmish Khambhaita"
-copyright = "&copy; 2017 Harmish Khambhaita"
+copyright = "&copy; 2018 Harmish Khambhaita"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -14,14 +14,14 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Harmish Khambhaita"
-  role = "Doctoral Candidate"
-  organization = "LAAS-CNRS"
-  organization_url = "https://www.laas.fr/"
+  role = "Post-doctoral Researcher"
+  organization = "ENSTA ParisTech"
+  organization_url = "https://www.ensta-paristech.fr/en/home/"
   gravatar = false
   avatar = "portrait.jpg"  # in `static/img/` folder
-  email = "harmish@laas.fr"
-  address = "Room H111, LAAS-CNRS, 7 Avenue du Colonel Roche, 31400, Toulouse, France"
-  phone = "+33 5 61 33 68 76"
+  email = "harmish.khambhaita@ensta-paristech.fr"
+  address = "Room R.3.27, ENSTA ParisTech, 828, Boulevard des Maréchaux, 91120 Palaiseau, France"
+  phone = "+33 (0)1 81 87 20 39"
 
   date_format = "Mon, Jan 2, 2006"
 
@@ -54,7 +54,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:harmish@laas.fr"
+    link = "mailto:harmish.khambhaita@ensta-paristech.fr"
 
   [[params.social]]
     icon = "linkedin"

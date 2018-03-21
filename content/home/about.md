@@ -1,7 +1,7 @@
 +++
 # About/Biography widget
 
-date = "2017-07-14T00:00:00"
+date = "2018-03-21T00:00:00"
 draft = false
 
 widget = "about"
@@ -10,6 +10,11 @@ widget = "about"
 weight = 1
 
 # List of qualifications
+[[education.courses]]
+  course = "PhD in Artificial Intelligence"
+  institution = "[University of Toulouse III - Paul Sabatier](http://www.univ-tlse3.fr/home/home-page-en-379161.kjsp?RH=ACCUEIL), France"
+  year = 2017
+
 [[education.courses]]
   course = "Master of Science in Autonomous Systems"
   institution = "[University of Applied Sciences Bonn-Rhein-Sieg](https://www.h-brs.de/en), Germany"
@@ -24,8 +29,8 @@ weight = 1
 
 # Hi!
 
-My current work revolves around human-aware robot navigation. It involves developing methods to make a robot move safely and comprehensibly in human centered environments. I am interested in developing socially intelligent robots using automated planning, optimization and machine learning techniques.
+My current work revolves around autonomous electric vehicles. It involves developing automated planning techniques for computing feasible and optimal trajectories for tele-operation of vehicles. I am a member of the [Autonomous System and Robotics](http://asr.ensta-paristech.fr/) group lead by [David Filliat](https://perso.ensta-paristech.fr/~filliat/eng/).
 
-I mostly interact with my supervisor [Rachid Alami](http://homepages.laas.fr/rachid/) and fellow doctoral students of the [Robotics and InteractionS](https://www.laas.fr/public/en/ris) group. In the past I have collaborated with [Geert-Jan Kruijff](https://www.linkedin.com/in/gjkruijff/) and [Erwin Prassler](https://www.linkedin.com/in/erwin-prassler-0005ba6).
+During my doctoral thesis work at [LAAS-CNRS](https://www.laas.fr/public/en) I was involved in developing methods to make a robot move safely and comprehensibly in human centered environments. My doctoral thesis was supervised by [Rachid Alami](https://homepages.laas.fr/rachid/). Before that I have collaborated with [Geert-Jan Kruijff](https://www.linkedin.com/in/gjkruijff/) during my stay at the [DFKI](https://www.dfki.de/web?set_language=en&cl=en) and with [Erwin Prassler](https://www.linkedin.com/in/erwin-prassler-0005ba6) during my master's thesis work.
 
-My current work is supported by the EU-projects [SPENCER](http://spencer.eu/) and [MuMMER](http://mummer-project.eu/).
+My current work is partially supported by the ITEA-3 project [Dangun](https://itea3.org/project/dangun-1.html).
